@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\bin\Debug\net6.0\Task19.exe
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\bin\Debug\net6.0\Task19.deps.json
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\bin\Debug\net6.0\Task19.runtimeconfig.json
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\bin\Debug\net6.0\Task19.dll
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\bin\Debug\net6.0\Task19.pdb
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.dll
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\refint\Task19.dll
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.pdb
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\Task19.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Документы\Учеба ГБ\C#\HometasksS3\Task19\obj\Debug\net6.0\ref\Task19.dll
