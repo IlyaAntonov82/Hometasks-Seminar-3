@@ -5,4 +5,14 @@
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-Console.WriteLine("Hello, World!");
+Console.Write("Введите число ");
+int num = Convert.ToInt32(Console.ReadLine());
+double result;
+Console.WriteLine($"Таблица кубов числа {num}:");
+
+for(double i=1; i<=num; i++)
+
+{
+  result=Math.Pow(i,3);
+  Console.WriteLine(result);
+}
